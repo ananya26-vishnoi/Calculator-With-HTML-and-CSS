@@ -1,1 +1,1 @@
-# Calculator-With-HTML-and-CSS
+# Calculator-with-HTML-and-CSS
