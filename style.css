@@ -1,0 +1,33 @@
+#clear{
+    width: 145px;
+    height: 50px;
+    margin:auto;
+    background-color:rgb(10, 98, 230);
+    font-size: 30px;
+    color:black;
+    border-bottom:1px solid rgb(10, 10, 10);
+}
+.formstyle{
+    width: 300px; 
+    height:400 px;
+    margin:auto;    
+}
+input{
+    width:70px;
+    height:70px;
+    margin:auto;
+    background-color:rgb(175, 245, 11);
+    font-size: 40px;
+    color:black;
+    border-bottom:1px solid black;
+}
+#answerstyle{
+    width: 220px;
+    height:100 px;
+    margin:auto;
+    background-color:rgb(233, 232, 240);
+    font-size: 40px;
+    color:black;
+    border-bottom:1px solid black;
+
+}
